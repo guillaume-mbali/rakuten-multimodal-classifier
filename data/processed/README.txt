@@ -1,0 +1,1 @@
+Populate this folder by running the src/features/preprocess_images.py script.
